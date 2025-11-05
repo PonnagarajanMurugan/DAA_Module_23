@@ -1,5 +1,5 @@
 # EX 5A Minimum Cost Path
-## DATE: 
+
 ## AIM:
 To write a Python program using A Naive recursive implementation of Minimum Cost Path Problem.
 
@@ -20,8 +20,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 
 A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
 
-Developed by: SRIRAJ G
-Register Number:212222040161
+Developed by: PON NAGARAJAN M
+Register Number:212222040115
 
 
 R = int(input())
