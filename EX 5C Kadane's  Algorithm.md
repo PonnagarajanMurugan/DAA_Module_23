@@ -1,5 +1,4 @@
 # EX 5C Kadane's Algorithm
-## DATE:
 ## AIM:
 
 To write a python program to find the maximum contiguous subarray.
@@ -25,8 +24,8 @@ To write a python program to find the maximum contiguous subarray.
 To implement the program to find the maximum contiguous subarray.
 
 
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```python
