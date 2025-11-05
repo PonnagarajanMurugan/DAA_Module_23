@@ -1,5 +1,4 @@
 # EX 5B Coin Change Problem
-## DATE: 
 ## AIM:
 To compute the fewest number of coins that we need to make up the amount given.
 
@@ -27,8 +26,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 Create a python function to compute the fewest number of coins that we need to make up the amount given.
 
 .
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```python
