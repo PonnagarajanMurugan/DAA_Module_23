@@ -1,5 +1,5 @@
 # EX 5D Minimum Jump to Reach End Array
-## DATE: 
+
 ## AIM:
 To write a python program for finding the minimum number of jumps needed to reach end of the array using Dynamic Programming.
 
@@ -25,8 +25,8 @@ To write a python program for finding the minimum number of jumps needed to reac
 /*
 To implement the program to finding the minimum number of jumps needed to reach end of the array.
 
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```python
